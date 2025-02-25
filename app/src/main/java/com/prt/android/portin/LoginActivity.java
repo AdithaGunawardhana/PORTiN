@@ -108,6 +108,8 @@ public class LoginActivity extends AppCompatActivity {
                         String emailFromDB = snapshot.child(userUsername).child("email").getValue(String.class);
                         String usernameFromDB = snapshot.child(userUsername).child("username").getValue(String.class);
 
+
+                        //this profileActivity.class should be changed to the MainActivity.class
                         Intent intent = new Intent(LoginActivity.this, ProfileActivity.class);
 
                         intent.putExtra("name", nameFromDB);
