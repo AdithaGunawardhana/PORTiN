@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "269357540587",
+    "firebase_url": "https://portinapp-default-rtdb.firebaseio.com",
+    "project_id": "portinapp",
+    "storage_bucket": "portinapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269357540587:android:5a6324570c6dcfe8dbcaae",
+        "android_client_info": {
+          "package_name": "com.prt.android.portin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGB-ZmD1r0uEjNqI-OFUF95pFAi9oVjXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
